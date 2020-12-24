@@ -119,4 +119,4 @@ def count_vowels_and_consonants(word: str) -> None:
 
 
 if __name__ == "__main__":
-    count_vowels_and_consonants('domates')
+    count_vowels_and_consonants('Potato')
